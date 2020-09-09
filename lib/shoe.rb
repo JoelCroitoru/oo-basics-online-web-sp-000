@@ -3,6 +3,6 @@ class Shoe
   def initialize(brand)
     @brand = brand
   end
-  def cobbble
+  def cobble
   end
 end
